@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_me">CLickMe</string>
+    <string name="feedback">FeedBack</string>
+    <string name="Email_hint">Email</string>
+    <string name="pass">Password</string>
+    <string name="SignUp_Bttn">Sign Up</string>
+   <string name="login_Signup_page">Login</string>
+    
+    
+
+</resources>
